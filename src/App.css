@@ -1,0 +1,11 @@
+.centered {
+  display: grid;
+  place-items: center;
+  color: aliceblue;
+}
+.desc {
+  margin: -11px;
+}
+.time_date {
+  margin-top: 30px;
+}
